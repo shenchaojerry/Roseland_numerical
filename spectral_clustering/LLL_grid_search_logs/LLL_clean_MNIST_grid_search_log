@@ -1,0 +1,155 @@
+>> main_LLL_tune_clean
+ans =
+    'Setup: MNIST dataset size=70000'
+Start LLL grid search on bandwidth(s), number of knn in affinity matrix(kW), number of landmarks each data point use(kZ), apply normalization or not(nl) 
+ans =
+    'When s=200, kW=100, kZ=3, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.60, dim6-10=0.54, dim11-20=0.50, dim21-27=0.48'
+ans =
+    'When s=200, kW=100, kZ=3, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.79, dim6-10=0.68, dim11-20=0.67, dim21-50=0.59'
+ans =
+    'When s=200, kW=100, kZ=3, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.70, dim6-10=0.69, dim11-20=0.68, dim21-50=0.67'
+ans =
+    'When s=200, kW=100, kZ=3, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.58, dim6-10=0.55, dim11-20=0.51, dim21-27=0.47'
+ans =
+    'When s=200, kW=100, kZ=3, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.84, dim6-10=0.66, dim11-20=0.64, dim21-50=0.57'
+ans =
+    'When s=200, kW=100, kZ=3, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.74, dim6-10=0.74, dim11-20=0.70, dim21-50=0.67'
+ans =
+    'When s=200, kW=100, kZ=10, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.52, dim6-10=0.50, dim11-20=0.49, dim21-27=0.49'
+ans =
+    'When s=200, kW=100, kZ=10, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.70, dim6-10=0.66, dim11-20=0.61, dim21-50=0.58'
+ans =
+    'When s=200, kW=100, kZ=10, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.70, dim6-10=0.70, dim11-20=0.67, dim21-50=0.63'
+ans =
+    'When s=200, kW=100, kZ=10, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.56, dim6-10=0.52, dim11-20=0.48, dim21-27=0.49'
+ans =
+    'When s=200, kW=100, kZ=10, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.64, dim6-10=0.63, dim11-20=0.61, dim21-50=0.57'
+ans =
+    'When s=200, kW=100, kZ=10, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.76, dim6-10=0.72, dim11-20=0.66, dim21-50=0.64'
+ans =
+    'When s=200, kW=100, kZ=20, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.58, dim6-10=0.50, dim11-20=0.54, dim21-27=0.53'
+ans =
+    'When s=200, kW=100, kZ=20, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.63, dim6-10=0.59, dim11-20=0.58, dim21-50=0.56'
+ans =
+    'When s=200, kW=100, kZ=20, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.68, dim6-10=0.64, dim11-20=0.64, dim21-50=0.62'
+ans =
+    'When s=200, kW=100, kZ=20, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.51, dim6-10=0.50, dim11-20=0.53, dim21-27=0.53'
+ans =
+    'When s=200, kW=100, kZ=20, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.63, dim6-10=0.58, dim11-20=0.59, dim21-50=0.57'
+ans =
+    'When s=200, kW=100, kZ=20, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.74, dim6-10=0.68, dim11-20=0.65, dim21-50=0.63'
+ans =
+    'When s=200, kW=200, kZ=3, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.58, dim6-10=0.53, dim11-20=0.51, dim21-27=0.49'
+ans =
+    'When s=200, kW=200, kZ=3, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.72, dim6-10=0.65, dim11-20=0.61, dim21-50=0.60'
+ans =
+    'When s=200, kW=200, kZ=3, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.72, dim6-10=0.71, dim11-20=0.69, dim21-50=0.68'
+ans =
+    'When s=200, kW=200, kZ=3, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.57, dim6-10=0.54, dim11-20=0.49, dim21-27=0.47'
+ans =
+    'When s=200, kW=200, kZ=3, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.74, dim6-10=0.65, dim11-20=0.64, dim21-50=0.60'
+ans =
+    'When s=200, kW=200, kZ=3, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.70, dim6-10=0.68, dim11-20=0.67, dim21-50=0.64'
+ans =
+    'When s=200, kW=200, kZ=10, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.55, dim6-10=0.51, dim11-20=0.50, dim21-27=0.50'
+ans =
+    'When s=200, kW=200, kZ=10, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.62, dim6-10=0.63, dim11-20=0.58, dim21-50=0.55'
+ans =
+    'When s=200, kW=200, kZ=10, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.71, dim6-10=0.69, dim11-20=0.65, dim21-50=0.63'
+ans =
+    'When s=200, kW=200, kZ=10, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.55, dim6-10=0.50, dim11-20=0.47, dim21-27=0.47'
+ans =
+    'When s=200, kW=200, kZ=10, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.68, dim6-10=0.65, dim11-20=0.60, dim21-50=0.57'
+ans =
+    'When s=200, kW=200, kZ=10, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.72, dim6-10=0.71, dim11-20=0.67, dim21-50=0.65'
+ans =
+    'When s=200, kW=200, kZ=20, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.52, dim6-10=0.50, dim11-20=0.52, dim21-27=0.53'
+ans =
+    'When s=200, kW=200, kZ=20, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.60, dim6-10=0.59, dim11-20=0.59, dim21-50=0.57'
+ans =
+    'When s=200, kW=200, kZ=20, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.71, dim6-10=0.67, dim11-20=0.63, dim21-50=0.62'
+ans =
+    'When s=200, kW=200, kZ=20, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.53, dim6-10=0.48, dim11-20=0.52, dim21-27=0.53'
+ans =
+    'When s=200, kW=200, kZ=20, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.68, dim6-10=0.60, dim11-20=0.60, dim21-50=0.58'
+ans =
+    'When s=200, kW=200, kZ=20, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.76, dim6-10=0.69, dim11-20=0.67, dim21-50=0.65'
+ans =
+    'When s=250, kW=100, kZ=3, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.60, dim6-10=0.57, dim11-20=0.52, dim21-27=0.47'
+ans =
+    'When s=250, kW=100, kZ=3, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.73, dim6-10=0.65, dim11-20=0.62, dim21-50=0.57'
+ans =
+    'When s=250, kW=100, kZ=3, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.74, dim6-10=0.73, dim11-20=0.72, dim21-50=0.67'
+ans =
+    'When s=250, kW=100, kZ=3, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.59, dim6-10=0.55, dim11-20=0.50, dim21-27=0.48'
+ans =
+    'When s=250, kW=100, kZ=3, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.77, dim6-10=0.67, dim11-20=0.64, dim21-50=0.60'
+ans =
+    'When s=250, kW=100, kZ=3, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.72, dim6-10=0.71, dim11-20=0.69, dim21-50=0.67'
+ans =
+    'When s=250, kW=100, kZ=10, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.60, dim6-10=0.54, dim11-20=0.51, dim21-27=0.51'
+ans =
+    'When s=250, kW=100, kZ=10, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.64, dim6-10=0.61, dim11-20=0.59, dim21-50=0.56'
+ans =
+    'When s=250, kW=100, kZ=10, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.73, dim6-10=0.72, dim11-20=0.71, dim21-50=0.69'
+ans =
+    'When s=250, kW=100, kZ=10, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.54, dim6-10=0.51, dim11-20=0.48, dim21-27=0.49'
+ans =
+    'When s=250, kW=100, kZ=10, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.71, dim6-10=0.64, dim11-20=0.61, dim21-50=0.59'
+ans =
+    'When s=250, kW=100, kZ=10, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.79, dim6-10=0.68, dim11-20=0.68, dim21-50=0.66'
+ans =
+    'When s=250, kW=100, kZ=20, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.54, dim6-10=0.50, dim11-20=0.54, dim21-27=0.55'
+ans =
+    'When s=250, kW=100, kZ=20, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.59, dim6-10=0.60, dim11-20=0.60, dim21-50=0.57'
+ans =
+    'When s=250, kW=100, kZ=20, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.71, dim6-10=0.65, dim11-20=0.66, dim21-50=0.64'
+ans =
+    'When s=250, kW=100, kZ=20, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.47, dim6-10=0.49, dim11-20=0.55, dim21-27=0.55'
+ans =
+    'When s=250, kW=100, kZ=20, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.61, dim6-10=0.59, dim11-20=0.57, dim21-50=0.57'
+ans =
+    'When s=250, kW=100, kZ=20, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.74, dim6-10=0.68, dim11-20=0.66, dim21-50=0.64'
+ans =
+    'When s=250, kW=200, kZ=3, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.66, dim6-10=0.61, dim11-20=0.55, dim21-27=0.49'
+ans =
+    'When s=250, kW=200, kZ=3, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.70, dim6-10=0.65, dim11-20=0.64, dim21-50=0.56'
+ans =
+    'When s=250, kW=200, kZ=3, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.68, dim6-10=0.68, dim11-20=0.66, dim21-50=0.65'
+ans =
+    'When s=250, kW=200, kZ=3, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.59, dim6-10=0.57, dim11-20=0.53, dim21-27=0.51'
+ans =
+    'When s=250, kW=200, kZ=3, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.72, dim6-10=0.65, dim11-20=0.62, dim21-50=0.58'
+ans =
+    'When s=250, kW=200, kZ=3, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.72, dim6-10=0.69, dim11-20=0.68, dim21-50=0.66'
+ans =
+    'When s=250, kW=200, kZ=10, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.55, dim6-10=0.47, dim11-20=0.46, dim21-27=0.48'
+ans =
+    'When s=250, kW=200, kZ=10, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.74, dim6-10=0.67, dim11-20=0.62, dim21-50=0.57'
+ans =
+    'When s=250, kW=200, kZ=10, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.65, dim6-10=0.64, dim11-20=0.65, dim21-50=0.62'
+ans =
+    'When s=250, kW=200, kZ=10, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.57, dim6-10=0.52, dim11-20=0.48, dim21-27=0.48'
+ans =
+    'When s=250, kW=200, kZ=10, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.65, dim6-10=0.63, dim11-20=0.60, dim21-50=0.57'
+ans =
+    'When s=250, kW=200, kZ=10, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.72, dim6-10=0.68, dim11-20=0.68, dim21-50=0.66'
+ans =
+    'When s=250, kW=200, kZ=20, nl=0, beta=0.3, landmark size=28, LLL acc dim1-5=0.55, dim6-10=0.52, dim11-20=0.55, dim21-27=0.55'
+ans =
+    'When s=250, kW=200, kZ=20, nl=0, beta=0.4, landmark size=87, LLL acc dim1-5=0.61, dim6-10=0.59, dim11-20=0.58, dim21-50=0.57'
+ans =
+    'When s=250, kW=200, kZ=20, nl=0, beta=0.5, landmark size=265, LLL acc dim1-5=0.68, dim6-10=0.66, dim11-20=0.65, dim21-50=0.63'
+ans =
+    'When s=250, kW=200, kZ=20, nl=1, beta=0.3, landmark size=28, LLL acc dim1-5=0.52, dim6-10=0.50, dim11-20=0.51, dim21-27=0.53'
+ans =
+    'When s=250, kW=200, kZ=20, nl=1, beta=0.4, landmark size=87, LLL acc dim1-5=0.58, dim6-10=0.60, dim11-20=0.60, dim21-50=0.59'
+ans =
+    'When s=250, kW=200, kZ=20, nl=1, beta=0.5, landmark size=265, LLL acc dim1-5=0.69, dim6-10=0.65, dim11-20=0.65, dim21-50=0.63'
+Finished grid search on clean data.ans =
+    'Beta=0.3, best LLL accuracy=0.66, at s=250, kW=200, kZ=3, nl=0'
+ans =
+    'Beta=0.4, best LLL accuracy=0.84, at s=200, kW=100, kZ=3, nl=1'
+ans =
+    'Beta=0.5, best LLL accuracy=0.79, at s=250, kW=100, kZ=10, nl=1'
+>> 
